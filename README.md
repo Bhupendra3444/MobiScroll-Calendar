@@ -1,60 +1,75 @@
-Mobiscroll Monthly Calendar Replica
-This project replicates the Mobiscroll monthly calendar timeline using ReactJS and the ViteJS framework. It includes functionalities such as timeline selection, event creation with unique colors, and drag-and-drop for event repositioning.
+# Mobiscroll Calendar 🗓️
+A desktop view replica of the Mobiscroll monthly calendar timeline built from scratch using ReactJS and the ViteJS framework.
 
-Table of Contents
-Installation
-Running the Application
-Features
-Tech Stack
-Lessons Learned
-Challenges
-Future Improvements
-Installation
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/mobiscroll-calendar-replica.git
-Navigate to the project directory:
-bash
-Copy
-Edit
-cd mobiscroll-calendar-replica
-Install dependencies:
-bash
-Copy
-Edit
-npm install
-Running the Application
-Start the development server:
-bash
-Copy
-Edit
-npm run dev
-Open your browser and navigate to:
-arduino
-Copy
-Edit
-http://localhost:5173
-Features
-Monthly Calendar View: Displays days in a monthly format.
-Drag & Select Timeline: Users can drag to select a timeline and add events.
-Event Management: Events are assigned different colors for distinction.
-Drag-and-Drop Events: Move events horizontally across dates.
-Tech Stack
-ReactJS: Component-based library for building the user interface.
-ViteJS: Fast and modern build tool for the framework setup.
-CSS Modules: For styling and maintaining modular CSS.
-Lessons Learned
-Gained experience in setting up a project with ViteJS.
-Learned advanced React state management techniques for drag-and-drop functionality.
-Improved CSS styling skills to match complex UI requirements.
-Challenges
-The most difficult part of the assignment was implementing the drag-and-drop functionality for selecting timelines and moving events seamlessly while maintaining performance and state consistency.
+# 🚀 Installation Guide
+**Follow the steps below to run the project locally:**
 
-Future Improvements
-Given more time, I would:
+Prerequisites
+Ensure you have the following installed:
 
-Add responsive design for mobile and tablet views.
-Optimize the drag-and-drop interaction to handle edge cases more gracefully.
-Implement tests to ensure the app's robustness.
+Node.js 
+
+npm (comes with Node.js)
+
+Git
+
+# Steps
+1.)**Clone the Repository:**
+
+Open your terminal and run-:
+
+git clone https://github.com/bhupendra344/calendar-assignment.git
+
+2.)**Install Dependencies:**
+
+Run the following command in terminal-: 
+
+**npm i**
+
+3.)**Start the Development Server:**
+Run the following command in terminal-:
+
+**npm run dev**
+
+4.) **Access the Application:**
+After running the command, open your browser and navigate to the provided link which will appear automatically.
+
+5.) **🎉 Enjoy Coding and Creating!**
+
+# To answer the questions that were asked
+
+**Ques. 3 things that you learned from this assignment?**
+
+Ans. The 3 things I learned from this assignment are:-
+
+1.)Component Optimization and Communication: Improved techniques for structuring and optimizing React components to handle complex interactions and efficient state management.
+
+2.)Advanced React State Management: Gained deeper insight into managing state for dynamic event creation and implementing smooth drag-and-drop functionality.
+
+3.)Precise UI Replication: Enhanced skills in using CSS to accurately replicate a sophisticated calendar UI, ensuring consistency and responsiveness across different devices.
+
+
+**Ques. What was the most difficult part of the assignment?**
+
+Ans. The most difficult part of this assignment was building the drag-and-drop system, ensuring that state updates remain accurate and the user experience stays smooth and intuitive.
+
+**Ques. What you would have done differently given more time?**
+
+Ans. If I would have more time to complete this assignment, I would implement the following features:-
+
+Making responsive design to ensure the application works well on mobile and tablet devices.  
+
+Improving the drag-and-drop interactions to reliably handle various edge cases.
+
+
+
+
+
+
+
+
+
+
+
+
+
