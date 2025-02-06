@@ -69,9 +69,7 @@ Improving the drag-and-drop interactions to reliably handle various edge cases.
 
 
 
-
-
-
+![calendar](https://github.com/user-attachments/assets/7d4197bf-80c4-47b9-9732-235ff2bce144)
 
 
 
