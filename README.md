@@ -49,9 +49,13 @@ Ans. The 3 things I learned from this assignment are:-
 3.)Precise UI Replication: Enhanced skills in using CSS to accurately replicate a sophisticated calendar UI, ensuring consistency and responsiveness across different devices.
 
 
+
+
 **Ques. What was the most difficult part of the assignment?**
 
 Ans. The most difficult part of this assignment was building the drag-and-drop system, ensuring that state updates remain accurate and the user experience stays smooth and intuitive.
+
+
 
 **Ques. What you would have done differently given more time?**
 
